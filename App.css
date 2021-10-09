@@ -1,0 +1,13 @@
+@import '../../rproject/src/css/styles.css';
+
+.Welcome_Page{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input_fields{
+  margin-left: 05px;
+  width:80%;
+  background-color: darkgrey;
+}
